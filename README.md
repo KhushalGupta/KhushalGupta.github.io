@@ -3,7 +3,7 @@ Save The Drops is developed to raise awareness about Water Hygiene. It is import
 
 It is written primarily in Javascript using the Phaser.IO game framework.
 
-Play at [Live Demo] (https://khushalgupta.github.io)(desktop only)
+Play at [Live Demo] (https://khushalgupta.github.io) - desktop only
 
 # To run locally
 - Install Python
